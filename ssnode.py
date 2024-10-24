@@ -5,8 +5,6 @@ import pyaes
 import binascii
 from datetime import datetime
 import argparse
-import schedule
-import time
 
 def decrypt_data(encrypted_data, key, iv):
     cipher = pyaes.AESModeOfOperationCBC(key, iv=iv)
@@ -52,22 +50,10 @@ def main(data):
     with open('output.txt', 'w', encoding='utf-8') as f:
         f.write("\n".join(output_lines))
 
-def job():
-    # Replace 'your_data' with the actual data you need to process
-    data = 'your_data'
-    main(data)
-
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Process some data.')
     parser.add_argument('--data', type=str, required=True, help='Data to process')
     args = parser.parse_args()
 
-    # Schedule the job every 12 hours
-    schedule.every(12).hours.do(job)
-
-    # Run the job immediately
-    job()
-
-    while True:
-        schedule.run_pending()
-        time.sleep(1)
+    # Directly run the job without schedule for GitHub Actions
+    main(args.data)
