@@ -21,7 +21,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests pyaes schedule
     - name: Run script
-      run: python ssnode.py --data "${{ secrets.DATA }}"  # Pass required data
+      run: python ssnode.py --data "${{ secrets.DATA }}"  # Pass required data from secrets
     - name: Commit and push if changed
       run: |
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
