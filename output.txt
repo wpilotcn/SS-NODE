@@ -1,18 +1,12 @@
-      H͜͡E͜͡L͜͡L͜͡O͜͡ ͜͡W͜͡O͜͡R͜͡L͜͡D͜͡ ͜͡E͜͡X͜͡T͜͡R͜͡A͜͡C͜͡T͜͡ ͜͡S͜͡S͜͡ ͜͡N͜͡O͜͡D͜͡E͜͡
-𓆝 𓆟 𓆞 𓆟 𓆝 𓆟 𓆞 𓆟 𓆝𓆝 𓆟𓆝 𓆟 𓆟 𓆞 𓆟
-Author : wpilot
-Date   : 2024-10-25
-Version: 1.0
-𓆝 𓆟 𓆞 𓆟 𓆝 𓆟 𓆞 𓆟 𓆝 𓆟𓆝 𓆟𓆝 𓆟 𓆞 𓆟
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTguMTM2LjE5Ny4xNjU6NDQz#JP, Tokyo 2
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTMuMTEzLjE3LjI0Njo0NDM=#SG, Singapore
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTMuMjUwLjI1LjE1OTo0NDM=#HK, Kowloon
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuOTUuNS4xNjg6NDQz#HK, New Territories
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTguMjQ2LjIzNS4yNDc6NDQz#US, Houston
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTIuMjIxLjI1NS41Mzo0NDM=#KR, Incheon
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuMjEzLjI0Ny4xMjU6NDQz#HK, Los Angeles
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANDMuMjAxLjI1NC43NDo0NDM=#JP, Osaka
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTIuMTAuMzMuMjExOjQ0Mw==#CA, Vancouver
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANDMuMjAxLjI1NC4yMTE6NDQz#JP, Tokyo
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANDQuMjQ0LjIxLjEyNTo0NDM=#US, Dallas 2
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuMjAwLjU0LjExOjQ0Mw==#HK, Los Angeles
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTMuMjI5Ljk4Ljg3OjQ0Mw==#TW, Taipei
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANDcuMTI5LjUwLjEzMTo0NDM=#HK, Kowloon
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTIuNzcuMjA5LjYxOjQ0Mw==#HK, New Territories
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTIuMTAuMzMuMjExOjQ0Mw==#US, Dallas 2
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTguMTM2LjE5Ny4xNjU6NDQz#KR, Incheon
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMzQuMjIyLjE0OC4yNTU6NDQz#CA, Vancouver
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMzQuMjE2LjI0MC4yMjU6NDQz#US, Houston
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANDMuMjAxLjI1NC43NDo0NDM=#JP, Tokyo
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANDcuMTMwLjMuNTQ6NDQz#JP, Tokyo 2
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMy4xMTIuMjE1LjY5OjQ0Mw==#SG, Singapore
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANDMuMjAxLjI1NC4yMTE6NDQz#JP, Osaka
